@@ -13,26 +13,31 @@
 
 尝试以相同的停顿时长读以下句子:
 
-| 1秒 | 1秒 | 1秒 |
-|:---:|:---:|:---:|
-| dogs | chase  | cats |
-| the dogs  | chase  | cats |
-| the dogs | chase  | the casts |
-| the dogs | will chase  | the cats |
-| the clever dogs | will be chasing  | the cats |
+|       1秒       |       1秒       |    1秒    |
+| :-------------: | :-------------: | :-------: |
+|      dogs       |      chase      |   cats    |
+|    the dogs     |      chase      | the casts |
+| the clever dogs | will be chasing | the cats  |
+
 
 
 ## 【发音】
 
 > 这是一个重灾区，从小学的多少有点大问题，建议每日朗读
 
-![](media/Phonemic.jpg)
+
+<img src="media/Phonemic.jpg" height="300" alt="https://albaenglish.co.uk/blog/improve-english-pronunciation-phonemic-chart/">
+
+如果你还不知道怎么读，可以看下 [https://englishwithlucy.co.uk/phonemic-chart/](https://englishwithlucy.co.uk/phonemic-chart/)
+
 
 ### [1.发音方式]
 
 > 除了图中的颜色标记，部分元音的发生还需注意口型
 
-![](media/Position.jpg)
+<img src="media/Position.jpg" height="300">
+
+然后如果你也不知道怎么确定口型，可以看下 [https://www.britishaccentacademy.com/interactive-ipa-chart/](https://www.britishaccentacademy.com/interactive-ipa-chart/)
 
 
 
