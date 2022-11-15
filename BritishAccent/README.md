@@ -2,25 +2,6 @@
 > 小编非专业人士甚至没考四级，纯兴趣。如有错误，欢迎指正！
 
 
-## 【节奏】
-
-### [1.重音等时](https://en.wikipedia.org/wiki/Isochrony#Syllable_timing)(**stress timing**)
-
-> 句子中重音间的时间间隔近乎相同
-
-而中文则是音节等时(**syllable timing**)，由此一字一停造就了中式英语，需优先纠正。
-
-
-尝试以相同的停顿时长读以下句子:
-
-|       1秒       |       1秒       |    1秒    |
-| :-------------: | :-------------: | :-------: |
-|      dogs       |      chase      |   cats    |
-|    the dogs     |      chase      | the casts |
-| the clever dogs | will be chasing | the cats  |
-
-
-
 ## 【发音】
 
 > 这是一个重灾区，从小学的多少有点大问题，建议每日朗读
@@ -41,3 +22,33 @@
 
 
 
+
+
+## 【节奏】
+
+### [1.重音等时](https://en.wikipedia.org/wiki/Isochrony#Syllable_timing)(**stress timing**)
+
+> 句子中重音间的时间间隔近乎相同
+
+而中文则是音节等时(**syllable timing**)，由此一字一停造就了中式英语，需优先纠正。
+
+
+尝试以相同的停顿时长读以下句子:
+
+|       1秒       |       1秒       |    1秒    |
+| :-------------: | :-------------: | :-------: |
+|      dogs       |      chase      |   cats    |
+|    the dogs     |      chase      | the casts |
+| the clever dogs | will be chasing | the cats  |
+
+### [2.连读]
+
+#### 2.0 Catenation - 连读
+
+#### 2.1 Assimilation - 连接变音
+
+#### 2.2 Intrusion - 额外发音
+
+#### 2.3 Elision - 省略发音
+
+#### 2.4 Geminates - 双辅音
